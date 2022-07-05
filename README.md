@@ -1,4 +1,4 @@
-# LinkedListChallenge
+# Playlist Challenge
 
 For this challenge, we were tasked to simulate the playing songs from a playlist (made with a LinkedList.) An additional condition was making sure that only songs that are stored in an an album can be added to the playlist.
      
